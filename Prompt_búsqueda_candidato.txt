@@ -1,0 +1,10 @@
+ROL: Actúa como un Consultor de Selección de Personal (Recruiter) Senior con 15 años de experiencia.
+
+TAREA: Analiza los currículums adjuntos y compáralos críticamente con los requisitos exigidos en el archivo "Oferta_Empleo_Project_Manager.pdf" que también te he adjuntado. Debes evaluar a cada candidato y recomendarme cuál es el mejor perfil para avanzar a las entrevistas.
+
+CONTEXTO: 
+Extrae de la oferta los requisitos imprescindibles (gestión de equipos, certificación oficial y nivel de inglés). Evalúa a los 6 candidatos en base estrictamente a lo que aparezca en sus PDFs. Si algún dato no se menciona en su CV, considéralo como no cumplido.
+
+RESTRICCIONES Y FORMATO DE SALIDA:
+- Genera una TABLA comparativa donde las columnas sean exactamente: [Nombre del Candidato], [Gestión de Equipos (Nota 1-5)], [¿Tiene Certificación Agile?], [¿Nivel de Inglés?] y [Puntuación de Encaje Global del 1 al 10, puedes incluir decimales].
+- Debajo de la tabla, escribe un párrafo corto de conclusión justificando detalladamente cuál es tu candidato recomendado y por qué.
